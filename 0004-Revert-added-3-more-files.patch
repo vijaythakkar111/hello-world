@@ -1,0 +1,27 @@
+From da7f2ba0983d7754862f9585fca5b81bff186e13 Mon Sep 17 00:00:00 2001
+From: vijay <vijay.thakkar@volansystech.com>
+Date: Tue, 2 May 2017 12:09:12 +0530
+Subject: [PATCH 4/5] Revert "added 3 more files"
+
+This reverts commit 5deef3035cd739e177fe74090d347732067d3a6d.
+---
+ test4.txt | 0
+ test5.txt | 0
+ test6.txt | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 test4.txt
+ delete mode 100644 test5.txt
+ delete mode 100644 test6.txt
+
+diff --git a/test4.txt b/test4.txt
+deleted file mode 100644
+index e69de29..0000000
+diff --git a/test5.txt b/test5.txt
+deleted file mode 100644
+index e69de29..0000000
+diff --git a/test6.txt b/test6.txt
+deleted file mode 100644
+index e69de29..0000000
+-- 
+2.12.0.windows.1
+

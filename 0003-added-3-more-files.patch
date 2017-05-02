@@ -1,0 +1,26 @@
+From 5deef3035cd739e177fe74090d347732067d3a6d Mon Sep 17 00:00:00 2001
+From: vijay <vijay.thakkar@volansystech.com>
+Date: Tue, 2 May 2017 11:49:24 +0530
+Subject: [PATCH 3/5] added 3 more files
+
+---
+ test4.txt | 0
+ test5.txt | 0
+ test6.txt | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 test4.txt
+ create mode 100644 test5.txt
+ create mode 100644 test6.txt
+
+diff --git a/test4.txt b/test4.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/test5.txt b/test5.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/test6.txt b/test6.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.12.0.windows.1
+

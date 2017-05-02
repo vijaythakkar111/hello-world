@@ -1,0 +1,26 @@
+From 0a8b5af879ce1900a755a4b0f872224ecd152e6b Mon Sep 17 00:00:00 2001
+From: vijay <vijay.thakkar@volansystech.com>
+Date: Tue, 2 May 2017 12:26:13 +0530
+Subject: [PATCH 5/5] modify comment msg
+
+---
+ test4.txt | 0
+ test5.txt | 0
+ test6.txt | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 test4.txt
+ create mode 100644 test5.txt
+ create mode 100644 test6.txt
+
+diff --git a/test4.txt b/test4.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/test5.txt b/test5.txt
+new file mode 100644
+index 0000000..e69de29
+diff --git a/test6.txt b/test6.txt
+new file mode 100644
+index 0000000..e69de29
+-- 
+2.12.0.windows.1
+
